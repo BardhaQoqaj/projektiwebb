@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.active {
+   color: green;
+   text-decoration: underline;
+   font-weight: bold;
+}
+body , html {
+    overflow-x: hidden;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+a{
+    color: whitesmoke;
+}
+a:hover{
+    color: green;
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+.nav-links li{
+    margin:0 30px;
+}
+#History{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 50px;
+    margin-bottom: 20px;
+
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../img/home7.jpg');
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.header-content{
+    margin-bottom: 150px;
+    color: #ffff;
+    text-align: center;
+}
+.header-content h2{
+    font-size: 6vmin;
+}
+.line{
+    width: 150px;
+    height: 4px;
+    background :green;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.header-content h1{
+    font-size: 7vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.ctn{
+    padding: 8px 15px;
+    background:green;
+    border-radius: 30px;
+    color: whitesmoke;
+
+}
+.menu-btn {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 40px;
+    cursor: pointer;
+    display: none;
+}
+section{
+    width: 80%;
+    margin: 80px auto;
+}
+.title{
+    text-align: center;
+    font-size: 4vmin;
+    color: green;
+}
+.row{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.row .col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.history .row{
+    margin-top: 30px;
+}
+h4 {
+    font-size: 3vmin;
+    color: green;
+    margin: 20px auto;
+}
+p {
+    color: rgb(83, 76, 10);
+    padding: 0px 40px;
+}
+.history .ctn {
+    margin-top: 30px;
+    transition: 0.5s;
+
+}
+
+.misioni{
+    width: 100%;
+    height: 80vh;
+   background-image: url(./img/aboutus1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+} 
+.misioni-content{
+    width: 60%;
+    padding: 50px;
+    color: #ffff;
+    align-items: center;
+    flex-direction: column;
+
+}
+.misioni-content h1{
+    font-size: 7vmin;
+    margin: 50px;
+}
+.misioni-content p{
+    color: #ffff;
+    text-align: center;
+    font-size: 3vmin;
+}
+.misioni-content .ctn {
+    margin-top: 40px;
+}
+
+.ushqimi .row{
+    margin-top: 30px;
+}
+.ushqimi h2{
+    font-size: 3vmin;
+    color:green;
+    margin: 20px auto;
+    text-align: center;
+    color: black;
+
+}
+.ushqimi h4 {
+    font-size: 3vmin;
+    color: green;
+    margin: 20px auto;
+    text-align: center;
+}
+.ushqimi .ctn {
+    margin-top: 30px;
+
+}
+.ushqimi .col{
+    display: inline-block;
+    margin: 35px 40px;
+    text-align: center;
+}
+.shendeti{
+        width: 90%;
+        height: 70vh;
+        background-image: url(../img/shendeti.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+    }
+    .shendeti-content{
+        width: 60%;
+        padding: 50px;
+        color: black;
+        align-items: center;
+        flex-direction: column;
+    
+    }
+    .shendeti-content h1{
+        font-size: 7vmin;
+        margin: 50px;
+    }
+    
+    .shendeti-content p{
+        color: #ffff;
+        text-align: center;
+        font-size: 3vmin;
+    }
+    .shendeti-content .ctn {
+        margin-top: 40px;
+    }
+    .cilesia .row{
+        margin-top: 30px;
+    }
+    .cilesia h4 {
+        font-size: 3vmin;
+        color:#c19675;
+        margin: 20px auto;
+        text-align: center;
+    }
+    
+    .cilesia .col{
+        display:inline-block;
+        margin: 100px 90px;
+        text-align: center;
+    }
+    .content-col{
+        width: 40%;
+    }
+    .image-col{
+        width: 60%;
+    }
+    .image-gallery img{
+        width: 60%;
+        max-width: 300px;
+        margin: 10px;
+    }
+
+  .content-col{
+      width: 40%;
+  }
+  .image-col{
+      width: 60%;
+  }
+
+    .Llojet .image-gallery{
+        display:flex;
+        flex-wrap: wrap;
+        width:100%;
+        align-items: center;
+    }
+    
+    .content-col h1{
+        font-size: 7vmin;
+        color: green;
+        text-align: center;
+    }
+    .content-col .line{
+        margin-left:-1px;
+    }
+    .content-col p{
+        padding: 0;
+        margin: 30px auto;
+    }
+
+    .image-gallery img{
+       max-width: 300px;
+        margin: 10px;
+        
+    }
+    .footer{
+        width: 100%;
+        min-height: 100px;
+        padding: 20px 80px;
+        margin:0;
+        background:#c19675;
+        text-align: center;
+    }
+    .footer p{
+        color: #ffff;
+        margin: 20px auto;
+        
+    }
+/*mobile device*/
+@media only screen and (max-width:850px){
+    .menu-btn{
+        display: block;
+        }
+    .navbar{
+        padding: 0;
+    }
+    .logo{
+        position: absolute;
+        top: 30px;
+        left: 30px;
+     }
+     
+     .nav-links {
+         flex-direction: column;
+         width: 100%;
+         height: 100vh;
+         justify-content: center;
+         background:#c19675;
+         margin-top: -900px;
+         transition: all 0.5s ease;
+     }
+     .mobile-menu{
+         margin-top: 0px;
+         border-bottom-right-radius: 30%;
+     }
+     .nav-links li{
+         margin: 30px auto;
+     }
+     /*responsive history*/
+     .row{
+         flex-direction: column;
+     }
+     .row .col{
+         margin: 20px auto;
+     }
+     .col img{
+         max-width: 90%;
+     }
+     /*responsive misioni */
+     .misioni-content{
+         width: 100%;
+     }
+     /* responsive ushqimi */
+     .row{
+        flex-direction: column;
+    }
+    .row .col{
+        margin: 20px auto;
+    }
+    .col img{
+        max-width: 90%;
+    }
+    /* shendeti */
+    .shendeti-content{
+        width: 100%;
+    }
+    /*ushqimi2*/
+    .Llojet .col{
+        width: 100%;
+    }
+    .image-gallery{
+        justify-content: center;
+        align-items: center;
+    }
+    .image-gallery img{
+        width: 90%;
+    }
+    /*footer*/
+    .footer{
+        padding:10px ;
+    }
+
+}
+/*animations*/
+img{
+    transition: transform .3s ease;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.ctn:hover{
+    background: #ffff;
+    color: green;
+    box-shadow: 2p 2px 5px black;
+}
+li:hover{
+    color: green;
+    cursor: pointer;
+}
