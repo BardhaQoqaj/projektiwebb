@@ -22,7 +22,7 @@
                 <div class="details-sub">
                     <h5> Chicken Chill Hamburger</h5>
                     <h5 class="price"> 3.20€ </h5>
-                    <p></p>
+                    <p>bukë burgeri shtëpie, me miell integral - me aronia dhe fara chia, sallatë e gjelbërt, gjoks pule, përzierje e lakrës së kuqe dhe karrotës me salcë nga fasulja e sojës, domate. Salca: e shtëpisë me jogurt grek dhe salcë të kuqe, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -33,7 +33,7 @@
                 <div class="details-sub">
                     <h5> Gorgeous Gang Hamburger</h5>
                     <h5 class="price"> 2.90€ </h5>
-                    <p></p>
+                    <p>bukë burgeri shtëpie, me miell integral - me aronia dhe fara chia, sallatë e gjelbërt, qofte vegane; domate, tranguj, qepë të kuqe. Salca: dy lloje: nga jogurti dhe fasulja e sojës me tranguj turshi. Dhe nga rrepa e kuqe me shije të kikirikut, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -44,7 +44,7 @@
                 <div class="details-sub">
                     <h5> Salmon Taste Hamburger</h5>
                     <h5 class="price"> 4.20€ </h5>
-                    <p> </p>
+                    <p>bukë burgeri shtëpie, me miell integral -me aronia dhe fara chia, sallatë e gjelbërt, salmon i marinuar, domate, tranguj, qepë e kuqe. Salca: nga jogurti dhe fasulja e sojës me tranguj turshi, kripë pink Himalaje. </p>
 
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="details-sub">
                     <h5> Queen Hamburger</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p></p>
+                    <p>bukë burgeri shtëpie, me miell integral - me aronia dhe fara chia, qofte pule, sallatë e gjelbërt, domate, tranguj turshi. Salca: e shtëpisë me jogurt grek dhe salcë të kuqe, tranguj turshi, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -66,7 +66,7 @@
                 <div class="details-sub">
                     <h5> Tuna Turner Wrap</h5>
                     <h5 class="price"> 3.20€ </h5>
-                    <p></p>
+                    <p>petë integrale e spinaqit të freskët me fara liri (e përgatitur në shtëpi), sallatë e gjelbërt, tuna-mix me karrotë dhe tranguj turshi, fasule të zezë, misër, qepë e kuqe, speca. Salca: salcë e kuqe shtëpie, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -77,7 +77,7 @@
                 <div class="details-sub">
                     <h5> Chicken Charm Wrap</h5>
                     <h5 class="price"> 3.90€ </h5>
-                    <p> </p>
+                    <p>(burrito) petë integrale e spinaqit të freskët me fara liri (e përgatitur në shtëpi), sallatë e gjelbërt, oriz integral, gjoks pule, fasule e zezë, karrotë, misër. Salca: e shtëpisë me jogurt grek dhe salcë të kuqe, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -88,7 +88,7 @@
                 <div class="details-sub">
                     <h5> Cool Egg Wrap</h5>
                     <h5 class="price"> 4.20€ </h5>
-                    <p></p>
+                    <p>(wrap) petë integrale e spinaqit të freskët me fara liri (e përgatitur në shtëpi), sallatë e gjelbërt, vezë të ziera, domate, djathë i butë. Salca: nga fasulja e sojës, kopër i thatë, kripë pink Himalaje.</p>
 
                 </div>
             </div>
@@ -99,7 +99,7 @@
                 <div class="details-sub">
                     <h5> Avocado & Egg Wrap</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p></p>
+                    <p>petë integrale e spinaqit të freskët me fara liri (e përgatitur në shtëpi), sallatë e gjelbërt, avokado, vezë, domate. Salca: nga jogurti dhe fasulja e sojës me tranguj turshi, kripë pink Himalaje</p>
 
                 </div>
             </div>
@@ -110,7 +110,7 @@
                 <div class="details-sub">
                     <h5> Positive Calorie Salad</h5>
                     <h5 class="price"> 3.90€ </h5>
-                    <p></p>
+                    <p>sallatë e gjelbërt, spinaq, oriz integral, gjoks pule, vezë të ziera, qepë të kuqe turshi, misër bizele, rrepë e kuqe e freskët, fara susami të bardha. Salca: "Strong Mustard".</p>
 
                 </div>
             </div>
@@ -121,7 +121,7 @@
                 <div class="details-sub">
                     <h5> Healing Power Salad</h5>
                     <h5 class="price"> 4.50€ </h5>
-                    <p> </p>
+                    <p>sallatë e gjelbërt, spinaq, oriz integral, avokado, edamami, thjerrëza, humus, karrotë, rrepka turshi, fara susami të zeza, fara luledielli. Salca: "Strong Mustard".</p>
 
                 </div>
             </div>
@@ -132,7 +132,7 @@
                 <div class="details-sub">
                     <h5> Veggie Love Salad</h5>
                     <h5 class="price"> 4.50€ </h5>
-                    <p></p>
+                    <p>sallatë e gjelbërt, spinaq, quinoa, humus, vezë të ziera, kungulleshë, përzierje e lakrës së kuqe dhe karrotës me salcë vegane nga fasulja e sojës, bizele, rrepka turshi, fara susami të zeza. Salca: "Lemon & Parsley".</p>
 
                 </div>
             </div>
@@ -143,7 +143,7 @@
                 <div class="details-sub">
                     <h5> Sweet Buddha Salad</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p> </p>
+                    <p>(pjatë me bullgur kokërrmadh) bazë nga bullguri, gjoks pule, patate e ëmbël, pure nga brokolli dhe spinaqi, qiqra, ullinj kallamata, fara susami të zeza. Salca: "Smokey Soul".</p>
 
                 </div>
             </div>
@@ -154,7 +154,7 @@
                 <div class="details-sub">
                     <h5>Antioxidant Hero </h5>
                     <h5 class="price"> 2.90€ </h5>
-                    <p></p>
+                    <p>spinaq, ananas, mollë e gjelbërt.</p>
 
                 </div>
             </div>
@@ -165,7 +165,7 @@
                 <div class="details-sub">
                     <h5> Whey Protein &PB Smoothie</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p></p>
+                    <p>qumësht, ujë, banane, proteinë e hirrës, gjalpë kikiriku i shtëpisë, hurma</p>
 
                 </div>
             </div>
@@ -176,7 +176,7 @@
                 <div class="details-sub">
                     <h5> Happy Oranges Smoothie </h5>
                     <h5 class="price"> 2.90€ </h5>
-                    <p></p>
+                    <p>portokaj</p>
 
                 </div>
             </div>
@@ -187,7 +187,7 @@
                 <div class="details-sub">
                     <h5> Ginger Lover Smoothie</h5>
                     <h5 class="price"> 2.50€ </h5>
-                    <p></p>
+                    <p>mollë e gjelbërt, xhenxhefil, karrotë, limon</p>
 
                 </div>
             </div>
@@ -198,7 +198,7 @@
                 <div class="details-sub">
                     <h5> Peanut Butter Pudding</h5>
                     <h5 class="price"> 3.80€ </h5>
-                    <p></p>
+                    <p>qumësht i arrave indiane dhe ëmbëlsues hurmash i shtëpisë, fara chia; gjalpë kikiriku, copëza të çokollatës së zezë vegane të shtëpisë; banane, kikirikë.</p>
 
                 </div>
             </div>
@@ -209,7 +209,7 @@
                 <div class="details-sub">
                     <h5> Fruits & Granolla</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p></p>
+                    <p>jogurt grek, mjedra, banane, granolla e shtëpisë me mjaltë dhe fruta të thata të ndryshme, ëmbëlsues hurmash.</p>
 
                 </div>
             </div>
@@ -220,7 +220,8 @@
                 <div class="details-sub">
                     <h5> Choco Lover Chia Pudding</h5>
                     <h5 class="price"> 3.90€ </h5>
-                    <p></p>
+                    <p>përmbajtje e qumështit prej arrave indiane, banane, kakao pluhur; granolla e shtëpisë me mjaltë, vaj kokosi: tërshërë, përzierje e frutave të thata, copëza kokosi, kikirikë, mjedra, gjalpë kikiriku, banane, çokollatë e zezë (vegane) e shtëpisë.</p>
+                    
 
                 </div>
             </div>
@@ -231,7 +232,7 @@
                 <div class="details-sub">
                     <h5> Pink Vibes Pudding</h5>
                     <h5 class="price"> 3.50€ </h5>
-                    <p></p>
+                    <p>përmbajtje e qumështit prej arrave indiane, mjedrave dhe bananes, granolla e shtëpisë me mjaltë, vaj kokosi: tërshërë, përzierje e frutave të thata, copëza kokosi, mjedra, badem.</p>
 
                 </div>
             </div>
