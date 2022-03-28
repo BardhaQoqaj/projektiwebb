@@ -1,0 +1,146 @@
+
+body{
+
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f1f1;
+    flex-direction: column;
+}
+body , html {
+    overflow-x: hidden;
+}
+
+.navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+	justify-content: space-between;
+    align-items: right;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 150px;
+   padding-left: 1150px;
+   color:rgba(0, 0, 0, 0);
+
+}
+.nav-links {
+ display: flex;
+ align-items: center;
+
+}
+.nav-links li{
+    margin:0 30px;
+position: right;
+}
+a{
+    color: whitesmoke;
+    font-size: 100%;
+}
+a:hover{
+    color: green;
+}
+
+
+img{
+	width: 1900px;
+	height: 750px;
+    transition: margin-left 200ms linear;
+}
+.slider{
+	background-size: 80%;
+    background-color: #99ab95;
+    overflow: hidden;
+	padding:100px 0;
+}
+
+.slider h1{
+    font-size: 7vmin;
+    margin: 50px;
+	color: green;
+	text-align: center;
+}
+.slider p{
+    color: green;
+    text-align: center;
+}
+.slider .ctn{
+	border:none;
+	outline:none;
+	background:#c19675;
+	padding:10px 30px;
+	font-size: 20px;
+	color:#ddd;
+	cursor:pointer;
+	margin:10px auto;
+}
+.slider .ctn:hover{
+	background:green;
+
+}
+a{
+    text-decoration: none;
+}
+.slider1-content{
+    width: 101%;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+	background-color: #99ab95;
+    overflow: hidden;
+	padding:50px 0;
+
+}
+
+
+.show-content{
+	display: block;
+}
+
+.hidden-content{
+	display: none;
+}
+.btn{
+	border:none;
+	outline:none;
+	background:#c19675;
+	padding:10px 30px;
+	font-size: 20px;
+	color:#ddd;
+	cursor:pointer;
+	margin:10px auto;
+
+}
+
+.btn:hover{
+	background:green;
+}
+
+.footer{
+    width: 93%;
+    min-height: 100px;
+    padding: 20px 80px;
+    background:#c19675;
+    text-align: center;
+    margin-bottom: -400px;
+}
+.footer p{
+    color: #ffff;
+    margin: 20px auto;
+    
+}
+@media only screen and (max-width:850px){
+
+    .slider{
+	width: 100%;
+}
+.slider-content{
+	width: 90%;
+	justify-content: center;
+	align-items: center;
+}
+
+}
